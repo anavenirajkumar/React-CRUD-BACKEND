@@ -1,3 +1,3 @@
 npm init --y
-npm install express mongoose mongoose-auto-increment morgan nodemon
+npm install express mongoose mongoose-auto-increment morgan nodemon dotenv
 "start" : "nodemon server.js"
