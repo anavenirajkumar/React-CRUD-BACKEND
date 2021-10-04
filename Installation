@@ -1,0 +1,3 @@
+npm install express mongoose mongoose-auto-increment morgan nodemon
+
+"start" : "nodemon server.js"
